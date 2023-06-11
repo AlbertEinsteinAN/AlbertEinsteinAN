@@ -10,7 +10,7 @@
     <a href="https://www.linkedin.com/in/albert-einstein-araújo-nogueira">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
-    <a href="https://www.beecrowd.com.br/judge/en/profile/473113">
+    <a href="https://www.beecrowd.com.br/judge/en/users/statistics/473113">
         <img src="https://i.imgur.com/OxvHYDF.png" alt="Beecrowd">
     </a>
     <a href="https://www.kaggle.com/alberteinsteinan">
