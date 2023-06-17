@@ -13,6 +13,9 @@
     <a href="https://www.beecrowd.com.br/judge/en/users/statistics/473113">
         <img src="https://i.imgur.com/OxvHYDF.png" alt="Beecrowd">
     </a>
+    <a href="https://leetcode.com/AlbertEinsteinAN">
+        <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
+    </a>
 </p>
 
 ### Languages
