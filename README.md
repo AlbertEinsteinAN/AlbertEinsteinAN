@@ -4,7 +4,6 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Einstein.<br>
-        Currently learning to walk in C# without falling on my bottom.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
 </p>
