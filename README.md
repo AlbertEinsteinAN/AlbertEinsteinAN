@@ -42,6 +42,19 @@
 </p>
 
 
+<h3>🎓 Education</h3>
+
+<p>
+    <a href="https://www.beecrowd.com.br/judge/en/users/statistics/473113"><img alt="Beecrowd" src="https://i.imgur.com/OxvHYDF.png" style="width: 110px; height: auto;"></a>
+    <a href="https://www.coursera.org/account/accomplishments/verify/HV9BGNJ473F9"><img alt="Coursera" src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white"></a>
+    <a href="https://www.duolingo.com/profile/AlbertAraujo"><img alt="Duolingo" src="https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white"></a>
+    <a href="https://auth.geeksforgeeks.org/user/alberteinsteinan"><img alt="Duolingo" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c"></a>
+    <a href="https://leetcode.com/AlbertEinsteinAN/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></a>
+    <a href="https://www.reddit.com/user/Aromatic_Grab_4061/"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"></a>
+    <a href="https://stackoverflow.com/users/21540034/albert-einstein"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+    <a href="https://pt.khanacademy.org/profile/kaid_2154904614769729043447745/discussion"><img alt="Khan Academy" src="https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white"></a>
+</p>
+      
 
 <h3>💻 Software and Tools</h3>
 
@@ -67,6 +80,7 @@
     <a href="#"><img alt="Unreal Engine	" src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"></a>
     <a href="#"><img alt="Windows Terminal" src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white"></a>
 </p>
+
   
 <h3>🌐 Browsers</h3>
 
@@ -78,20 +92,6 @@
     <a href="#"><img alt="Tor" src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white"></a>
 </p>
 
-
-<h3>🎓 Education</h3>
-
-<p>
-    <a href="https://www.beecrowd.com.br/judge/en/users/statistics/473113"><img alt="Beecrowd" src="https://i.imgur.com/OxvHYDF.png" style="width: 110px; height: auto;"></a>
-    <a href="https://www.coursera.org/account/accomplishments/verify/HV9BGNJ473F9"><img alt="Coursera" src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white"></a>
-    <a href="https://www.duolingo.com/profile/AlbertAraujo"><img alt="Duolingo" src="https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white"></a>
-    <a href="https://auth.geeksforgeeks.org/user/alberteinsteinan"><img alt="Duolingo" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c"></a>
-    <a href="https://leetcode.com/AlbertEinsteinAN/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></a>
-    <a href="https://www.reddit.com/user/Aromatic_Grab_4061/"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"></a>
-    <a href="https://stackoverflow.com/users/21540034/albert-einstein"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-    <a href="https://pt.khanacademy.org/profile/kaid_2154904614769729043447745/discussion"><img alt="Khan Academy" src="https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white"></a>
-</p>
-      
 
 <h3>🗄️ Databases and Cloud Hosting</h3>
 
