@@ -13,7 +13,8 @@
 
 <details>
     <summary><h2>👨 Social</h2></summary>
-
+🖱️ Click here to connect with me through my social contacts below!
+    
   <p>
     <a href="https://github.com/AlbertEinsteinAN"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
     <a href="https://www.instagram.com/alberteinstein.an/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -30,6 +31,7 @@
 
 <h3>👨‍💻 Programming and Skills</h3>
 
+🖱️ Click here to view code examples!
 
 <p>
     <a href="https://github.com/search?q=user%3AAlbertEinsteinAN+language%3Ac"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
@@ -42,6 +44,8 @@
 
 
 <h3>🎓 Education</h3>
+
+🖱️ Click here to see my profile and educational achievements!
 
 <p>
     <a href="https://www.beecrowd.com.br/judge/en/users/statistics/473113"><img alt="Beecrowd" src="https://i.imgur.com/OxvHYDF.png" style="width: 110px; height: auto;"></a>
