@@ -122,13 +122,13 @@
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
     <a href="https://streak-stats.demolab.com/?user=AlbertEinsteinAN&theme=dark&border_radius=1">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="AlbertEinsteinAN's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AlbertEinsteinAN&theme=dark&hide_border=true" height="190px"/></a>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="AlbertEinsteinAN's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AlbertEinsteinAN&theme=dark&hide_border=true" height="200px"/></a>
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
 
-<a href="https://github.com/AlbertEinsteinAN/github-readme-stats"><img alt="AlbertEinsteinAN's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AlbertEinsteinAN&theme=dark&show_icons=true&hide_border=true&count_private=true" height="190px"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="AlbertEinsteinAN's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertEinsteinAN&theme=dark&show_icons=true&hide_border=true&layout=compact" height="190px"/></a>
+<a href="https://github.com/AlbertEinsteinAN/github-readme-stats"><img alt="AlbertEinsteinAN's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AlbertEinsteinAN&theme=dark&show_icons=true&hide_border=true&count_private=true" height="185px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="AlbertEinsteinAN's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertEinsteinAN&theme=dark&show_icons=true&hide_border=true&layout=compact" height="185px"/></a>
   <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
