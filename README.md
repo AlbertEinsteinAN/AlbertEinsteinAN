@@ -109,7 +109,7 @@
     <a href="#"><img alt="Linux Mint" src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white"></a>
     <a href="#"><img alt="Manjaro" src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white"></a>
     <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
-    <a href="#"><img alt="Windows Xp, 7, 10, 11" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+    <a href="#"><img alt="Windows Xp, 7, 10 and 11" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
 </p>
   </details>
 
@@ -129,7 +129,7 @@
   <h3>💻 GitHub Profile Stats</h3>
 
 <a href="https://github.com/AlbertEinsteinAN/github-readme-stats"><img alt="AlbertEinsteinAN's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AlbertEinsteinAN&theme=dark&show_icons=true&hide_border=true&count_private=true" height="192px"/></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="AlbertEinsteinAN's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertEinsteinAN&theme=dark&show_icons=true&hide_border=true&layout=compact" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="AlbertEinsteinAN's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertEinsteinAN&theme=dark&show_icons=true&hide_border=true&layout=compact" height="192px"/></a>
   <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
